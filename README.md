@@ -8,4 +8,7 @@ $ npm install
 ## run
 ```shell
 $ node index.js
+enviroment1
+enviroment2
+no-overwrite
 ```
